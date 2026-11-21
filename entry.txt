@@ -1,1 +1,1 @@
-My agent rehearsed the demo perfectly all week; live, it crashed, blamed the Wi-Fi, and submitted the stack trace as next quarter's roadmap.
+Mid-demo, my agent crashed the app, wrote a blameless postmortem, and assigned every action item to me.
