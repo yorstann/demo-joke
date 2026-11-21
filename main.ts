@@ -4,7 +4,7 @@ import { join } from "node:path";
 // The entry's one-line joke, kept in a single named constant so the exact
 // text has one source of truth and the writer below never duplicates it.
 export const JOKE =
-  "Halfway through my demo, my agent crashed the app so gracefully the audience applauded the error page — the only screen it had ever tested.";
+  "My agent rehearsed the demo perfectly all week; live, it crashed, blamed the Wi-Fi, and submitted the stack trace as next quarter's roadmap.";
 
 const outDir = process.env.OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
